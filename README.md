@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
 
-<img src="https://github.com/Flutter2616/final_exam/assets/124335197/1313ffd4-4b2f-4d8d-b488-39cdce3306e9" height="50%" width="30%">
-<img src="https://github.com/Flutter2616/final_exam/assets/124335197/d05e558f-60cc-4e1d-b8f5-a5e5ccf22ded" height="50%" width="30%">
+<img src="" height="50%" width="30%">
+<img src="" height="50%" width="30%">
 
 </p>
 
